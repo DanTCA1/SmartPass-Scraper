@@ -5,7 +5,7 @@ Scrapes names and emails off of SmartPass's servers for a specific school, sorts
 # Usage
 > [!WARNING]
 >
-> Use this at your own discretion. It is not my fault if you get in trouble while using this.
+> This is only for archival and bug awareness reasons, please do not use this for illegal purposes
 
 1. Download `Scraper.py`.
 1. Run it once, letting it generate `Config.json`.
